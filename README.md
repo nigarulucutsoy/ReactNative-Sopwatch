@@ -1,4 +1,4 @@
-# ReactNative-Sopwatch
+# ReactNative-Stopwatch
 stopwatch
 Reactnative ile yaptığım kronometre uygulamasının ekran görüntüleri.
 
